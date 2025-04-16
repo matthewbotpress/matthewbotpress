@@ -1,7 +1,7 @@
 ## About me
 My name is Matthew Petruzziello and I'm a Software Engineering and Aerospace Engineering student at McGill University with experience in full-stack development, developer relationsm and DevOps.
 
-I am currently interning at [@Botpress](https://botpress.com) as a Software Developer Intern on the Growth Engineering team.
+I am currently a Software Developer Intern at [@Botpress](https://botpress.com) on the Growth Engineering team.
 
 ## 🔧 Skills
 
