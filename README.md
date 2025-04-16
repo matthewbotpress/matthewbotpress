@@ -52,3 +52,5 @@ Click the following links to see my open source contributions to Botpress! I con
 - GitHub: [@mpetruzziello](https://github.com/mpetruzziello) | [@matthewbotpress](https://github.com/matthewbotpress)
 
 NOTE: my personal github contains my personal projects + hackathons, while the matthewbotpress github contains my work and open source contributions for Botpress.
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mpetruzziello&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
