@@ -38,7 +38,7 @@ Leveraged a Python FastAPI framework for secure user authentication and account 
 Built test software for sending and receiving radio signals from the ground station to the rocket using C++ and Teensy 4.0/4.1 microcontrollers.
 
 ### Ilys Programming Language
-*August 2024 - September 2024*
+*August 2024*
 
 Created a lexer and parser for a custom programming language called Ilys. Both are written in C++. I started this project to get prepared for my OCaml course. I do want to learn compiler design in the future and will come back to this project. See it [here](https://github.com/mpetruzziello/Ilys-Programming-Language).
 
