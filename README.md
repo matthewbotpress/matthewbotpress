@@ -7,9 +7,6 @@ My name is Matthew Petruzziello and I'm a U2 Software Engineering student at McG
 
 ⚙️ I also worked as a Software Engineer Intern at [Rustica](https://rusticafoods.com) on the Infrastructure team from February 2024 to August 2024.
 
-## 🔧 Languages used in Personal Projects
-[![Top Langs (Work)](https://github-readme-stats.vercel.app/api/top-langs/?username=matthewbotpress&layout=compact&theme=default&title_color=333)](https://github.com/anuraghazra/github-readme-stats)
-
 ## 🏆 Projects
 
 ### ConUHacks IX - Sun Life Sponsored Challenge Winner
@@ -36,6 +33,9 @@ Built test software for sending and receiving radio signals from the ground stat
 *August 2024*
 
 Created a lexer and parser for a custom programming language called Ilys. Both are written in C++. I started this project to get prepared for my OCaml course. I do want to learn compiler design in the future and will come back to this project. See it [here](https://github.com/mpetruzziello/Ilys-Programming-Language).
+
+## 🔧 Languages used in Personal Projects
+[![Top Langs (Work)](https://github-readme-stats.vercel.app/api/top-langs/?username=matthewbotpress&layout=compact&theme=default&title_color=333)](https://github.com/mpetruzziello)
 
 ## Open Source Contributions
 
