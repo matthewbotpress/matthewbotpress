@@ -27,9 +27,7 @@ NodeJS, ReactJS, NextJS, Flask, MUI, Cucumber, Gradle, PsychoPy
 ### ConUHacks IX - Sun Life Sponsored Challenge Winner
 *February 2025*
 
-You can find the project [here](https://devpost.com/software/finsurance).
-
-The repository is [here](https://github.com/SophiaClifton/hashbrown-app).
+You can find the project specs [here](https://devpost.com/software/finsurance). The open-source repository is [here](https://github.com/SophiaClifton/hashbrown-app).
 
 My contributions are under the '@mpetruzziello' handle.
 
