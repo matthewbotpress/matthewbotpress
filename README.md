@@ -45,4 +45,4 @@ Click the following links to see my open source contributions to Botpress! I con
 - LinkedIn: [matthew-petruzziello](https://linkedin.com/in/matthew-petruzziello)
 - GitHub: [@mpetruzziello](https://github.com/mpetruzziello) | [@matthewbotpress](https://github.com/matthewbotpress)
 
-NOTE: my personal github contains my personal projects + hackathons, while the matthewbotpress github contains my work and open source contributions for Botpress.
+NOTE: my personal github contains my personal projects + hackathons, while the matthewbotpress github contains my work and open source contributions for Botpress. 
