@@ -10,7 +10,7 @@ My name is Matthew Petruzziello and I'm a U2 Software Engineering student at McG
 ## 🔧 Skills
 
 ### Programming Languages
-Java, Python, C, TypeScript, JavaScript, SQL, PHP, HTML/CSS, Bash, C++, JavaFX
+Java, Python, C, TypeScript, JavaScript, SQL, PHP, HTML/CSS, OCaml, Bash, C++, JavaFX
 
 ### Frameworks & Libraries
 NodeJS, ReactJS, NextJS, Flask, MUI, Cucumber, Gradle, PsychoPy
