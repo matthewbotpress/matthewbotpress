@@ -15,7 +15,7 @@ Java, Python, C, TypeScript, JavaScript, SQL, PHP, HTML/CSS, OCaml, Bash, C++, J
 ### Frameworks & Libraries
 NodeJS, ReactJS, NextJS, Flask, MUI, Cucumber, Gradle, PsychoPy
 
-## 🏆 Hackathon Wins
+## 🏆 Projects
 
 ### ConUHacks IX - Sun Life Sponsored Challenge Winner
 *February 2025*
