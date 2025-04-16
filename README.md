@@ -22,7 +22,7 @@ NodeJS, ReactJS, NextJS, Flask, MUI, Cucumber, Gradle, PsychoPy
 ### Software Engineer Intern | Rustica
 *February 2024 - August 2024*
 
-## 🏆 Projects
+## 🏆 Hackathon Wins
 
 ### ConUHacks IX - Sun Life Sponsored Challenge Winner
 *February 2025*
