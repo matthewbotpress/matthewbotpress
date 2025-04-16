@@ -7,7 +7,7 @@ My name is Matthew Petruzziello and I'm a U2 Software Engineering student at McG
 
 ⚙️ I also worked as a Software Engineer Intern at [Rustica](https://rusticafoods.com) on the Infrastructure team from February 2024 to August 2024.
 
-## 🔧 Most used languages for projects / open source contributions
+## 🔧 Languages used in projects / open source contributions
 [![Top Langs (Work)](https://github-readme-stats.vercel.app/api/top-langs/?username=matthewbotpress&layout=compact&theme=default&title_color=333)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 🏆 Projects
