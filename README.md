@@ -1,4 +1,4 @@
-## About me
+## 🙋 About me
 My name is Matthew Petruzziello and I'm a U2 Software Engineering student at McGill University with an Aerospace Engineering minor. I have experience in full-stack development, developer relations, and DevOps.
 
 🤖 I am currently a Software Developer Intern at [Botpress](https://botpress.com) on the Growth Engineering team for Summer 2025.
@@ -34,10 +34,10 @@ Built test software for sending and receiving radio signals from the ground stat
 
 Created a lexer and parser for a custom programming language called Ilys. Both are written in C++. I started this project to get prepared for my OCaml course. I do want to learn compiler design in the future and will come back to this project. See it [here](https://github.com/mpetruzziello/Ilys-Programming-Language).
 
-## 🔧 Languages used in Personal Projects
+## 🔧 Languages used in Projects
 [![Top Langs (Work)](https://github-readme-stats.vercel.app/api/top-langs/?username=matthewbotpress&layout=compact&theme=default&title_color=333)](https://github.com/mpetruzziello)
 
-## Open Source Contributions
+## 💻 Open Source Contributions
 
 Click the following links to see my open source contributions to Botpress! I contributed to the main [Botpress repository](https://github.com/botpress/botpress/commits/?author=matthewbotpress). I also contributed to the [Botpress Growth repository](https://github.com/botpress/growth/commits/?author=matthewbotpress) and [Botpress Docs repo](https://github.com/botpress/readme/commits/?author=matthewbotpress).
 
