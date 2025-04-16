@@ -26,6 +26,17 @@ NodeJS, ReactJS, NextJS, Flask, MUI, Cucumber, Gradle, PsychoPy
 
 ### ConUHacks IX - Sun Life Sponsored Challenge Winner
 *February 2025*
+You can find the project [here](https://devpost.com/software/finsurance)
+The repository is [here](https://github.com/SophiaClifton/hashbrown-app). 
+My contributions are under the '@mpetruzziello' handle.
+
+What the project entails:
+
+Developed a full-stack financial wellness web application that secured first place in the Sun Life Sponsored Challenge. Integrated a friendly AI chatbot “Fin”, built with Botpress, to fetch transactions from a PostgreSQL backend and provide real-time budgeting advice on a React/Node.js frontend.
+
+Designed interactive budgeting tools, a financial literacy quiz, and accessibility features (e.g. screen-reader support, audio playback) to improve financial literacy and inclusivity for all users.
+
+Leveraged a Python FastAPI framework for secure user authentication and account data retrieval.
 
 ## 📫 Contact
 - Email: matthew.petruzziello@mail.mcgill.ca
