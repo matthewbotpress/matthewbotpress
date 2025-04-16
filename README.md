@@ -32,7 +32,7 @@ Designed interactive budgeting tools, a financial literacy quiz, and accessibili
 
 Leveraged a Python FastAPI framework for secure user authentication and account data retrieval.
 
-### McGill Rocket Team - Software Team Member Radios
+### McGill Rocket Team - Software Team Member (Radios Subteam)
 *September 2024 - November 2024*
 Built test software for sending and receiving radio signals from the ground station to the rocket using C++ and Teensy 4.0/4.1 microcontrollers.
 
