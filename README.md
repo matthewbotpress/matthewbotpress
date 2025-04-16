@@ -1,5 +1,3 @@
-## Helloooo 🙋🏻‍♂️
-
 ## About me
 My name is Matthew Petruzziello and I'm a Software Engineering and Aerospace Engineering student at McGill University with experience in full-stack development, developer relationsm and DevOps.
 
