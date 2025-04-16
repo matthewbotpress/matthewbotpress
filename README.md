@@ -11,17 +11,6 @@ Java, Python, C, TypeScript, JavaScript, SQL, PHP, HTML/CSS, Bash, C++, JavaFX
 ### Frameworks & Libraries
 NodeJS, ReactJS, NextJS, Flask, MUI, Cucumber, Gradle, PsychoPy
 
-## 💼 Professional Experience
-
-### Software Developer Intern - Growth | Botpress
-*April 2025 - Present*
-
-### DevRel Engineer Intern | Botpress
-*December 2024 - April 2025*
-
-### Software Engineer Intern | Rustica
-*February 2024 - August 2024*
-
 ## 🏆 Hackathon Wins
 
 ### ConUHacks IX - Sun Life Sponsored Challenge Winner
@@ -41,7 +30,7 @@ Leveraged a Python FastAPI framework for secure user authentication and account 
 
 ## Open Source Contributions
 
-Scroll down to see my open source contributions to Botpress! I contributed to the main [Botpress repository](https://github.com/botpress/botpress/commits/?author=matthewbotpress). I also contributed to the [Botpress growth repository](https://github.com/botpress/growth/commits/?author=matthewbotpress) and [Botpress docs](https://github.com/botpress/readme/commits/?author=matthewbotpress).
+Click the following links to see my open source contributions to Botpress! I contributed to the main [Botpress repository](https://github.com/botpress/botpress/commits/?author=matthewbotpress). I also contributed to the [Botpress Growth repository](https://github.com/botpress/growth/commits/?author=matthewbotpress) and [Botpress Docs repo](https://github.com/botpress/readme/commits/?author=matthewbotpress).
 
 ## 📫 Contact
 - Email: matthew.petruzziello@mail.mcgill.ca
