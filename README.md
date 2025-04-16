@@ -39,6 +39,10 @@ Designed interactive budgeting tools, a financial literacy quiz, and accessibili
 
 Leveraged a Python FastAPI framework for secure user authentication and account data retrieval.
 
+## Open Source Contributions
+
+Scroll down to see my open source contributions to Botpress! I contributed to the main [Botpress repository](https://github.com/botpress/botpress/commits/?author=matthewbotpress). I also contributed to the [Botpress growth repository](https://github.com/botpress/growth/commits/?author=matthewbotpress) and [Botpress docs](https://github.com/botpress/readme/commits/?author=matthewbotpress).
+
 ## 📫 Contact
 - Email: matthew.petruzziello@mail.mcgill.ca
 - LinkedIn: [matthew-petruzziello](https://linkedin.com/in/matthew-petruzziello)
