@@ -7,13 +7,8 @@ My name is Matthew Petruzziello and I'm a U2 Software Engineering student at McG
 
 ⚙️ I also worked as a Software Engineer Intern at [Rustica](https://rusticafoods.com) on the Infrastructure team from February 2024 to August 2024.
 
-## 🔧 Skills
-
-### Programming Languages
-Java, Python, C, TypeScript, JavaScript, SQL, PHP, HTML/CSS, OCaml, Bash, C++, JavaFX
-
-### Frameworks & Libraries
-NodeJS, ReactJS, NextJS, Flask, MUI, Cucumber, Gradle, PsychoPy
+## 🔧 Most used languages for projects / open source contributions
+[![Top Langs (Work)](https://github-readme-stats.vercel.app/api/top-langs/?username=matthewbotpress&layout=compact&theme=default&title_color=333)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 🏆 Projects
 
@@ -52,11 +47,3 @@ Click the following links to see my open source contributions to Botpress! I con
 - GitHub: [@mpetruzziello](https://github.com/mpetruzziello) | [@matthewbotpress](https://github.com/matthewbotpress)
 
 NOTE: my personal github contains my personal projects + hackathons, while the matthewbotpress github contains my work and open source contributions for Botpress.
-
-## My GitHub Stats
-
-### Personal Account
-[![Top Langs (Personal)](https://github-readme-stats.vercel.app/api/top-langs/?username=mpetruzziello&layout=compact&theme=default&title_color=333)](https://github.com/anuraghazra/github-readme-stats)
-
-### Work Account
-[![Top Langs (Work)](https://github-readme-stats.vercel.app/api/top-langs/?username=matthewbotpress&layout=compact&theme=default&title_color=333)](https://github.com/anuraghazra/github-readme-stats)
