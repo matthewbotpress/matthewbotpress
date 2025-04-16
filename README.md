@@ -34,6 +34,7 @@ Leveraged a Python FastAPI framework for secure user authentication and account 
 
 ### McGill Rocket Team - Software Team Member (Radios Subteam)
 *September 2024 - November 2024*
+
 Built test software for sending and receiving radio signals from the ground station to the rocket using C++ and Teensy 4.0/4.1 microcontrollers.
 
 ## Open Source Contributions
@@ -45,4 +46,4 @@ Click the following links to see my open source contributions to Botpress! I con
 - LinkedIn: [matthew-petruzziello](https://linkedin.com/in/matthew-petruzziello)
 - GitHub: [@mpetruzziello](https://github.com/mpetruzziello) | [@matthewbotpress](https://github.com/matthewbotpress)
 
-NOTE: my personal github contains my personal projects + hackathons, while the matthewbotpress github contains my work and open source contributions for Botpress. 
+NOTE: my personal github contains my personal projects + hackathons, while the matthewbotpress github contains my work and open source contributions for Botpress.
